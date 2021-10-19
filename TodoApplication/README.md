@@ -1,4 +1,4 @@
-# SwiftUI_ToDoApp
+# SwiftUI Todo Application
 Simple ToDo app using SwiftUI & Core Data
 <table>
    <tr>
